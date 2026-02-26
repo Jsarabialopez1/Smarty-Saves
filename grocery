@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Grocery coupons from top retailers.">
+    <meta name="keywords" content="grocery coupons, food discounts">
+    <meta name="author" content="Smarty Saves">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smarty Saves - Grocery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Grocery Deals</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="grocery.html">Grocery</a>
+    <a href="home-necessities.html">Home Necessities</a>
+    <a href="personal-care.html">Personal Care</a>
+</nav>
+
+<main>
+    <p>Save money on everyday grocery essentials including meat, produce, and pantry staples.</p>
+
+    <img src="images/grocery1.jpg" alt="Meat Items">
+    <a class="coupon-link" href="https://www.walmart.com" target="_blank">
+        Click Here for 25% off meat items
+    </a>
+
+    <img src="images/grocery2.jpg" alt="Fresh Produce">
+    <a class="coupon-link" href="https://www.target.com" target="_blank">
+        Click Here for 25% off meat items
+    </a>
+
+    <img src="images/grocery3.jpg" alt="Pantry Items">
+    <a class="coupon-link" href="https://www.kroger.com" target="_blank">
+        Click Here for 25% off meat items
+    </a>
+
+</main>
+
+<footer>
+    <p>Contact us: jsarabi7@asu.edu</p>
+</footer>
+
+</body>
+</html>

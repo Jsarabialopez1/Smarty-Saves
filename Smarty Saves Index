@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Smarty Saves - The best retail deals in one place.">
+    <meta name="keywords" content="coupons, retail deals, grocery, home supplies, personal care">
+    <meta name="author" content="Smarty Saves">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smarty Saves - Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Smarty Saves</h1>
+    <p>Your one-stop destination for the best retail coupons!</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="grocery.html">Grocery</a>
+    <a href="home-necessities.html">Home Necessities</a>
+    <a href="personal-care.html">Personal Care</a>
+</nav>
+
+<main>
+    <h2>Welcome to Smarty Saves</h2>
+    <p>Smarty Saves helps shoppers quickly find the best retail deals from top stores all in one simple place. 
+    We organize grocery, cleaning, and personal care discounts to save you time and money.</p>
+
+    <h3>Popular Coupons</h3>
+    <table>
+        <tr>
+            <th>Store</th>
+            <th>Offer</th>
+            <th>Expiration Date</th>
+        </tr>
+        <tr>
+            <td>Walmart</td>
+            <td>20% off Charmin Ultra Soft</td>
+            <td>March 13, 2026</td>
+        </tr>
+        <tr>
+            <td>Walmart</td>
+            <td>20% off Charmin Ultra Soft</td>
+            <td>March 13, 2026</td>
+        </tr>
+        <tr>
+            <td>Walmart</td>
+            <td>20% off Charmin Ultra Soft</td>
+            <td>March 13, 2026</td>
+        </tr>
+    </table>
+
+    <h3>Watch: Smart Grocery Shopping Tips</h3>
+    <!-- Replace video.mp4 with your small video file -->
+    <video width="400" controls>
+        <source src="video.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <h3>Join Our Savings List</h3>
+    <form action="#">
+        <label>Full Name:</label>
+        <input type="text" required>
+
+        <label>Email Address:</label>
+        <input type="email" required>
+
+        <label>Favorite Category:</label>
+        <select>
+            <option>Grocery</option>
+            <option>Home Necessities</option>
+            <option>Personal Care</option>
+        </select>
+
+        <label>Additional Comments:</label>
+        <textarea rows="4"></textarea>
+
+        <input type="submit" value="Submit">
+    </form>
+</main>
+
+<footer>
+    <p>Contact us: jsarabi7@asu.edu</p>
+    <p>&copy; 2026 Smarty Saves</p>
+</footer>
+
+</body>
+</html>
